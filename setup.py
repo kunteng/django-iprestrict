@@ -42,7 +42,7 @@ setup(
     include_package_data=True,
     zip_safe=False,
     install_requires=[
-        'Django>=1.8',
+        'Django>=1.7',
         'django-templatetag-handlebars==1.3.1',
     ],
     extras_require={
